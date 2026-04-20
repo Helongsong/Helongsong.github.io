@@ -19,7 +19,7 @@ redirect_from:
 
 主要从事固废资源化利用（固碳、催化等)、生物质资源工程（生物基复合材料、隔热隔声性能等）、全生命周期评估（碳排放计算）和机器学习的研究方向。主持国家自然科学基金青年项目1项，广东省面上项目1项，并参与数项荷兰研究理事会项目、广东省自然科学基金项目和企业项目，发表20余篇固废建材/环境领域顶级期刊论文，包括Cement and Concrete Research、Cement and Concrete Composites, Resource Conservation & Recycling，Construction and Building Materials，Journal of Building Engineering，International Journal of Biological Macromolecules等，担任Journal of Materials Research and Technology、Scientific Reports等国际期刊审稿人，以第一发明人获授权荷兰发明专利，国内发明和实用新型专利10余项（均授权，且部分专利已在相关企业应用）
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=AXMANi4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
