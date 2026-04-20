@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-主要从事固废资源化利用（固碳、催化等)、生物质资源工程（生物基复合材料、隔热隔声性能等）、全生命周期评估（碳排放计算）和机器学习的研究方向。主持国家自然科学基金青年项目1项，广东省面上项目1项，并参与数项荷兰研究理事会项目、广东省自然科学基金项目和企业项目，发表20余篇固废建材/环境领域顶级期刊论文，包括Cement and Concrete Research、Cement and Concrete Composites, Resource Conservation & Recycling，Construction and Building Materials，Journal of Building Engineering，International Journal of Biological Macromolecules等，担任Journal of Materials Research and Technology、Scientific Reports等国际期刊审稿人，以第一发明人获授权荷兰发明专利，国内发明和实用新型专利10余项（均授权，且部分专利已在相关企业应用）
+I'm an assistant professor at the College of Civil and Transportation Engineering, ShenZhen University (深圳大学土木与交通工程学院), China. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=AXMANi4AAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=AXMANi4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include  **Solid waste resource utilization (carbon sequestration, catalysis, pollution control, etc.), biomass-based composite materials (thermal insulation, sound absorption, etc.), carbon footprint calculation, machine learning, etc.** I have hosted ** 1 National Natural Science Foundation of China (NSFC)  Young Scientists Fund , 1  Guangdong Basic and Applied Basic Research Foundation, and participated several projects funded by Dutch Research council (NWO) and European Union.** 
+
+I have published more than 20 papers at the top international  research papers with total <a href='https://scholar.google.com/citations?user=AXMANi4AAAAJ'>google scholar citations <strong><span id='total_cit'>8</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=AXMANi4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
