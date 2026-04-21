@@ -36,7 +36,7 @@ My research interests include  **Solid waste resource utilization (carbon seques
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Project**]  **Resource Utilization of MSWI Bottom Ash**
+[**Project-1**]  **Resource Utilization of Solid Wastes**
 
 - Solidification/ stabilization
 - Improve mechanical strength
@@ -48,6 +48,21 @@ My research interests include  **Solid waste resource utilization (carbon seques
 - [Study on the carbonization coating treatment of municipal solid waste incineration fine bottom ash as aggregates: CO2 capture, contaminants solidification, on-site application scale](https://www.sciencedirect.com/science/article/pii/S095894652600137Xh),  **Cem. Concr. Compos.‌ 2026**
 - [Understanding of municipal solid waste incineration (MSWI) bottom ash/cement blends: Impact of natural fiber on mechanical strength and leaching behavior](https://www.sciencedirect.com/science/article/pii/S2352710226001518),  **J. Build. Eng.‌ 2026**
 - [Investigation of sisal fiber incorporation on engineering properties and sustainability of lightweight aggregates produced from municipal solid waste incinerated bottom ash](https://www.sciencedirect.com/science/article/pii/S0950061824000849),  **Constr. Build. Mater.‌ 2024**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Project-2**]  **Bio-based composite materials**
+
+- Biomass 
+- Heat insulation
+- Sound absorption
+- Reduce carbon footprint
+- Low cost
+</div>
+</div>
+
+- [Durability assessment of alkyl ketene dimer hydrophobic treatment of bio-based thermal insulation materials](https://www.sciencedirect.com/science/article/pii/S0921344924005743),  **‌Resour. Conserv. Recy.‌ 2025**
 
 
 
