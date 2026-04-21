@@ -46,7 +46,8 @@ My research interests include  **Solid waste resource utilization (carbon seques
 </div>
 
 - [Study on the carbonization coating treatment of municipal solid waste incineration fine bottom ash as aggregates: CO2 capture, contaminants solidification, on-site application scale](https://www.sciencedirect.com/science/article/pii/S095894652600137Xh),  **Cem. Concr. Compos.‌ 2026**
-
+- [Understanding of municipal solid waste incineration (MSWI) bottom ash/cement blends: Impact of natural fiber on mechanical strength and leaching behavior](https://www.sciencedirect.com/science/article/pii/S2352710226001518),  **J. Build. Eng.‌ 2026**
+- [Investigation of sisal fiber incorporation on engineering properties and sustainability of lightweight aggregates produced from municipal solid waste incinerated bottom ash](https://www.sciencedirect.com/science/article/pii/S0950061824000849),  **Constr. Build. Mater.‌ 2024**
 
 
 
