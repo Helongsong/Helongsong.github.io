@@ -23,7 +23,7 @@ My research interests include  **Solid waste resource utilization (carbon seques
 
 I have hosted  ** National Natural Science Foundation of China Young Scientists Fund, Guangdong Basic and Applied Basic Research Foundation ** , and participated several projects funded by Dutch Research council (NWO) and European Union.
 
-I have published  ** more than 20 papers  ** at the top international  research papers with total (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=AXMANi4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have published  ** more than 20 papers  ** at the top international  research papers with total  <a href='https://scholar.google.com/citations?user=AXMANi4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
