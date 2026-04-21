@@ -21,14 +21,14 @@ redirect_from:
 I'm an assistant professor at the College of Civil and Transportation Engineering, ShenZhen University (深圳大学土木与交通工程学院), China. 
 
 My research interests include  **Solid waste resource utilization (carbon sequestration, catalysis, pollution control, etc.), biomass-based composite materials (thermal insulation, sound absorption, etc.), carbon footprint calculation, machine learning, etc.**<br>
-⭐ Hosted  National project (NSCF), Guangdong province project,  and participated several projects funded by Dutch Research council (NWO) and European Union. 
-📚 Published more than 20 papers at the top international research papers (e.g., *Cement and Concrete Research, IF 13.1、Cement and Concrete Composites, IF 13.1、Resource Conservation & Recycling, IF 10.2，Construction and Building Materials，Journal of Building Engineering，International Journal of Biological Macromolecules, etc.*) with total  <a href='https://scholar.google.com/citations?user=AXMANi4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. <br>
+⭐ Hosted  National project (NSCF), Guangdong province project,  and participated several projects funded by Dutch Research council (NWO) and European Union. <br>
+📚 Published more than 20 papers at the top international research papers (e.g., *Cement and Concrete Research, IF 13.1、Cement and Concrete Composites, IF 13.1、Resource Conservation and Recycling, IF 10.2，Construction and Building Materials，Journal of Building Engineering，International Journal of Biological Macromolecules, etc.*) with total  <a href='https://scholar.google.com/citations?user=AXMANi4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. <br>
 📜 Granted more than 10 invention patents including Dutch invention patent (first inventor) and Chinese invention patent (practical industrial applications).
 
 
 # 🔥 News
 - *2026.03*: &nbsp;🎉🎉 "Study on the carbonization coating treatment... application scale" has been accepted by Cement and Concrete Composites. 
-- *2026.01*: &nbsp;🎉🎉 "Understanding of municipal solid waste incineration (MSWI) ... leaching behavior"has been accepted by  Journal of Building Engineering. 
+- *2026.01*: &nbsp;🎉🎉 "Understanding of municipal solid waste incineration (MSWI) ... leaching behavior" has been accepted by  Journal of Building Engineering. 
 
 
 # 📝 Publications 
