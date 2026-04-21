@@ -45,7 +45,11 @@ My research interests include  **Solid waste resource utilization (carbon seques
 </div>
 </div>
 
-- [Study on the carbonization coating treatment of municipal solid waste incineration fine bottom ash as aggregates: CO2 capture, contaminants solidification, on-site application scale](https://www.sciencedirect.com/science/article/pii/S095894652600137Xh), H. Song, Z. Jiang, T. Luinenburg et al., **Cem. Concr. Compos.‌ 2026**
+- [Study on the carbonization coating treatment of municipal solid waste incineration fine bottom ash as aggregates: CO2 capture, contaminants solidification, on-site application scale](https://www.sciencedirect.com/science/article/pii/S095894652600137Xh),  **Cem. Concr. Compos.‌ 2026**
+
+
+
+
 
 # 📝 Publications 
 
