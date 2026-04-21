@@ -68,16 +68,10 @@ My research interests include  **Solid waste resource utilization (carbon seques
 - [Improving the interface compatibility and mechanical performances of the cementitious composites by low-cost alkyl ketene dimer modified fibers](https://www.sciencedirect.com/science/article/pii/S0950061823019001),  **‌Constr. Build. Mater. ‌ 2023**
 - [Evaluation of zirconia modification on the durability of natural fiber-reinforced cement composites using accelerated aging](https://www.sciencedirect.com/science/article/pii/S2352710224002006),  **‌J. Build. Eng. ‌ 2024**
 
-
-
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-
-# 📖 Educations
-- *2025.03 - now*, Shenzhen University, Assistant professor. 
-- *2020.10 - 2024.10*, Eindhoven University of Technology (TU/e), PhD. 
 
 # 💬 Invited Presentations
 - *2026.04*,  The 4th Academic and Technical Exchange Conference on Solid Waste Utilization and Low-Carbon Civil Engineering Materials, **Suzhou, China**
