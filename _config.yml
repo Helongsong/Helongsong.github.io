@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "Helong song"
-description              : "Assistant professor, ShenZhen University (SZU). Major research interest: Solid waste resource utilization etc..  
+description              : "Assistant professor, ShenZhen University (SZU). Major research interest: Solid waste resource utilization etc.  
+                                       
                                        Email: hlsong@szu.edu.cn" 
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
@@ -25,7 +26,7 @@ author:
   name             : "Helong Song"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Shenzhen University"
-  location         : "Shenzhen, China"
+  location         : "3688 Nanhai Avenue, Nanshan District, Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=AXMANi4AAAAJ"
