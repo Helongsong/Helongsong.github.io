@@ -73,7 +73,7 @@ My research interests include  **Solid waste resource utilization (carbon seques
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Work experience and Education
+# 📖 Educations
 - *2025.03 - now*, Shenzhen University, Assistant professor. 
 - *2020.10 - 2024.10*, Eindhoven University of Technology (TU/e), PhD. 
 
