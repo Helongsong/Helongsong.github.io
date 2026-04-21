@@ -63,6 +63,10 @@ My research interests include  **Solid waste resource utilization (carbon seques
 </div>
 
 - [Durability assessment of alkyl ketene dimer hydrophobic treatment of bio-based thermal insulation materials](https://www.sciencedirect.com/science/article/pii/S0921344924005743),  **‌Resour. Conserv. Recy.‌ 2025**
+- [Enhancing mechanical performance of green fiber cement composites: Role of eco-friendly alkyl ketene dimer on surfaces of hemp fibers](https://www.sciencedirect.com/science/article/pii/S2238785423033197),  **‌J. Mater. Res. Technol. .‌ 2024**
+- [Improving the interface compatibility and mechanical performances of the cementitious composites by low-cost alkyl ketene dimer modified fibers](https://www.sciencedirect.com/science/article/pii/S0950061823019001),  **‌Constr. Build. Mater. ‌ 2023**
+- [Evaluation of zirconia modification on the durability of natural fiber-reinforced cement composites using accelerated aging](https://www.sciencedirect.com/science/article/pii/S2352710224002006),  **‌J. Build. Eng. ‌ 2024**
+
 
 
 # 🎖 Honors and Awards
