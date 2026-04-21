@@ -38,8 +38,10 @@ My research interests include  **Solid waste resource utilization (carbon seques
 
 [**Project**]  **Resource Utilization of MSWI Bottom Ash**
 
-- Control pollutant, improve strength. 
+- Solidification/ stabilization
+- Improve mechanical strength
 -Reduce carbon footprint
+-Cost-effective approaches
 </div>
 </div>
 
