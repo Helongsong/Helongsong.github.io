@@ -40,8 +40,8 @@ My research interests include  **Solid waste resource utilization (carbon seques
 
 - Solidification/ stabilization
 - Improve mechanical strength
--Reduce carbon footprint
--Cost-effective approaches
+- Reduce carbon footprint
+- Cost-effective approaches
 </div>
 </div>
 
