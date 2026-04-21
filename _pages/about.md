@@ -19,7 +19,9 @@ redirect_from:
 
 I'm an assistant professor at the College of Civil and Transportation Engineering, ShenZhen University (深圳大学土木与交通工程学院), China. 
 
-My research interests include  **Solid waste resource utilization (carbon sequestration, catalysis, pollution control, etc.), biomass-based composite materials (thermal insulation, sound absorption, etc.), carbon footprint calculation, machine learning, etc. ** I have hosted  ** National Natural Science Foundation of China Young Scientists Fund, Guangdong Basic and Applied Basic Research Foundation ** , and participated several projects funded by Dutch Research council (NWO) and European Union.
+My research interests include  **Solid waste resource utilization (carbon sequestration, catalysis, pollution control, etc.), biomass-based composite materials (thermal insulation, sound absorption, etc.), carbon footprint calculation, machine learning, etc.** 
+
+I have hosted  ** National Natural Science Foundation of China Young Scientists Fund, Guangdong Basic and Applied Basic Research Foundation ** , and participated several projects funded by Dutch Research council (NWO) and European Union.
 
 I have published  ** more than 20 papers  ** at the top international  research papers with total (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=AXMANi4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 

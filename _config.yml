@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "Helong song"
-description              : "主要研究兴趣Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  Email: h" 
+description              : "Assistant professor, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  
+                                       Email: [hlsong@szu.edu.cn]" 
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,11 +26,10 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Shenzhen University"
   location         : "Shenzhen, China"
-  email              : "hlsong@szu.edu.cn"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=AXMANi4AAAAJ"
-  email            : hlsong@szu.edu.cn
+  email            : "hlsong@szu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
