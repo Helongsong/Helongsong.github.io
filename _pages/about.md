@@ -49,7 +49,7 @@ My research interests include  **Solid waste resource utilization (carbon seques
 - [Understanding of municipal solid waste incineration (MSWI) bottom ash/cement blends: Impact of natural fiber on mechanical strength and leaching behavior](https://www.sciencedirect.com/science/article/pii/S2352710226001518),  **J. Build. Eng.‌ 2026**
 - [Investigation of sisal fiber incorporation on engineering properties and sustainability of lightweight aggregates produced from municipal solid waste incinerated bottom ash](https://www.sciencedirect.com/science/article/pii/S0950061824000849),  **Constr. Build. Mater.‌ 2024**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x301.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Project-2**]  **Bio-based Composite Materials**
